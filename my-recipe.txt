@@ -1,1 +1,2 @@
 my own recipes
+Second row in my-recipe file
